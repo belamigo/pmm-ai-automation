@@ -4,3 +4,10 @@ A working collection of automated marketing/competitive intelligence  systems �
 
 ## Projects
 - **Competitive Intel Engine** — real-time competitor monitoring → AI triage → sales battlecards + content briefs
+
+## Competitive Intelligence Sources
+Beyond website monitoring, a full CI practice pulls from:
+- **Product signals** — job postings, GitHub/API changelogs
+- **Voice-of-customer** — G2/Capterra reviews, Reddit/HN, CRM closed-lost notes
+- **People signals** — LinkedIn moves, exec talks/podcasts
+- **Money & attention** — funding/layoffs, ad transparency libraries
